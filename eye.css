@@ -6,6 +6,15 @@ h1{
     margin-top: 250px;
     font-size: 50px;
 }
+h2{
+    color:white;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+    margin-top: 250px;
+    font-size: 20px;
+}
+
 body{
 
     background-color: black;
